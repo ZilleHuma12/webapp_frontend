@@ -1,0 +1,10 @@
+{
+    "user_details": "بيانات المستخدم",
+    "name": "اسم",
+    "email": "بريد إلكتروني",
+    "date_of_registration": "تاريخ التسجيل",
+    "products": "منتجات",
+    "add_product": "أضف منتج",
+    "no": "رقم سري",
+    "price": "سعر"
+}
